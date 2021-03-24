@@ -1,0 +1,12 @@
+wp-content/backup/*
+wp-content/cache/*
+wp-content/upgrade/*
+wp-content/uploads/*
+wp-content/themes/twenty*
+wp-content/plugins/hello.php
+wp-content/wflogs
+wp-content/et-cache
+/sitemap.*
+wp-config.php
+backup.sql
+local-dev.tgz
